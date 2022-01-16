@@ -3,7 +3,7 @@
 This is a kodi addon that will open the brightness dialog with the touch of a button.
 
 Attach this addon to a button press in your keymap.... below is the letter F.
-
+```
 <keymap>
     <fullscreenvideo>
         <keyboard>
@@ -11,3 +11,4 @@ Attach this addon to a button press in your keymap.... below is the letter F.
         </keyboard>
     </fullscreenvideo>
 </keymap>
+```
